@@ -1,0 +1,15 @@
+@media screen and (max-width:1024px) {
+    #page {
+        margin: auto;
+        width:100%;
+        padding:20px;
+    }
+    
+    #secondary {
+        display: none;
+    }
+    
+    #prima  ry {
+        width:100%;
+    }
+}
