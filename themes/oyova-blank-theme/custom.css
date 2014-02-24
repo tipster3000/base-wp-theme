@@ -18,6 +18,7 @@
     margin-left:20px;
 }
 
+/* primary content container with sidebar */
 #primary {
     width:70%;
     float: left;
@@ -28,6 +29,7 @@
     padding:0 10px;
 }
 
+/* primary content container without sidebar */
 #primary.front_page {
     width:100%;
     float: none;
@@ -36,6 +38,7 @@
     background-color:#FFE2E2;
 }
 
+/* sidebar container  */
 #secondary {
     width:30%;
     float: left;
@@ -46,11 +49,13 @@
     padding-top:15px;
 }
 
+/* left sidebar container  */
 #secondary.left_sidebar  {
     padding-right:20px;
     padding-left:10px;
 }
 
+/* footer */
 #colophon {
     width:100%;
     text-align: center;
